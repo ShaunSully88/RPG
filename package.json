@@ -1,0 +1,22 @@
+{
+  "name": "rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaunSully88/RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaunSully88/RPG/issues"
+  },
+  "homepage": "https://github.com/ShaunSully88/RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
